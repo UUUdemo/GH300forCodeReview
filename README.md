@@ -1,3 +1,4 @@
+test
 # 台幣換他國貨幣 - Code Review 示範程式
 
 ## 功能
